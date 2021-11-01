@@ -1,0 +1,32 @@
+body, html{
+    height: 100%;
+    margin:0;
+}
+
+.bg{
+    background-image: url("nbapaint.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+    
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+
+
+
+#btn {
+    align-content: center;
+    justify-self: center;
+    justify-content: center;
+}
